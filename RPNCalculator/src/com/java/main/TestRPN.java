@@ -1,8 +1,8 @@
 package com.java.main;
 
-import junit.framework.TestCase;
-
 import org.junit.Test;
+
+import junit.framework.TestCase;
 
 public class TestRPN extends TestCase{
 
